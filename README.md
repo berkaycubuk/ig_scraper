@@ -1,4 +1,4 @@
-# php_instagram_scraper
+# ig_scraper
 PHP based instagram scraper without login!
 
 ## installation
