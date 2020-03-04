@@ -1,4 +1,4 @@
-# ig_scraper
+# ig_scraper v1.0.0
 PHP based instagram scraper without login!
 
 ## installation
@@ -41,3 +41,5 @@ Just download ig_scraper.php and include the file.
   $ig = new IG_Scraper('your-username');
   echo $ig->json();
 ```
+
+## In the next update ig_scraper will able to get posts!
