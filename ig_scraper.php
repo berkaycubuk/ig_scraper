@@ -2,7 +2,6 @@
 
 /*
 Designed and created by Berkay Çubuk
-Last Edit: 24/02/2020
 */
 
 class IG_Scraper {
