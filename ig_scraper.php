@@ -134,4 +134,8 @@ class IG_Scraper {
 		return $this->picture_hd;
 	}
 
+	function connected_fb_page() {
+		return $this->connected_fb_page;
+	}
+
 }
