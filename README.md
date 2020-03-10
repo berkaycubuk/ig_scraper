@@ -2,7 +2,13 @@
 PHP based instagram scraper without login!
 
 ## Installation
+
+### 1) Direct Download
 Just download ig_scraper.php and include the file.
+
+### 2) Composer
+Packagist Link
+https://packagist.org/packages/berkay-cubuk/ig_scraper
 
 ## Usage
 
