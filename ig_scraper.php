@@ -6,10 +6,8 @@ Last Edit: 24/02/2020
 */
 
 class IG_Scraper {
-	//json
-	public $json;
 
-	//general
+	public $json;
 	public $username;
 	public $biography;
 	public $external_url;
@@ -29,10 +27,8 @@ class IG_Scraper {
 	public $is_verified;
 	public $picture;
 	public $picture_hd;
+	public $connected_fb_page;
 
-	//detailed
-
-	//posts
 
 	//splitting function
 	function __construct($username) {	
@@ -56,6 +52,7 @@ class IG_Scraper {
 		$this->is_verified = $data->graphql->user->is_verified;
 		$this->picture = $data->graphql->user->profile_pic_url;
 		$this->picture_hd = $data->graphql->user->profile_pic_url_hd;
+		$this->connected_fb_page = $data->graphql->user->connected_fb_page;
 	}
 
 	function json() {
