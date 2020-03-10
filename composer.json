@@ -1,0 +1,15 @@
+{
+    "name": "Berkay-Cubuk/ig_scraper",
+    "type": "library",
+    "description": "Description",
+    "keywords": ["instagram", "scraper"],
+    "homepage": "http://github.com/Berkay-Cubuk/ig_scraper",
+    "authors": [
+        {
+            "name": "Berkay Çubuk",
+            "email": "berkaycubuk@gmail.com",
+            "homepage": "https://berkaycubuk.net",
+            "role": "Developer"
+        }
+    ]
+}
