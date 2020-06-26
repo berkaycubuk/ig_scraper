@@ -1,5 +1,8 @@
 # ig_scraper v1.0.1
-PHP based instagram scraper without login!
+PHP based instagram scraper without login or API!
+
+## DISCLAIMER!
+We do not take responsibility for anything that can happen, you take responsibility for all kinds of things you do. For business projects please contact with Instagram.
 
 ## Installation
 
